@@ -1,3 +1,8 @@
+poseidon-ep4cgx150 port by https://github.com/Maverick-Shark
+update by (turri21)[https://github.com/turri21]
+
+
+
 # TSConf for MiST FPGA computer
 
 This is the port of TSConf (advanced ZX Spectrum-compatible platform) to [MiST](https://github.com/mist-devel/mist-board) and [MiST.1010](https://github.com/UzixLS/mist1010-board).
