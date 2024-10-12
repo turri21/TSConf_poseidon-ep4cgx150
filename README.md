@@ -1,8 +1,8 @@
 -=(Poseidon notes)=-
 
-Poseidon-ep4cgx150 port by https://github.com/Maverick-Shark
+Poseidon-ep4cgx150 port by [Maverick-Shark](https://github.com/Maverick-Shark)
 
-Update by https://github.com/turri21
+Update by [turri21](https://github.com/turri21)
 
 
 # TSConf for MiST FPGA computer
