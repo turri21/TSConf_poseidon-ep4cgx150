@@ -124,8 +124,8 @@ set_location_assignment PIN_90 -to SPI_SS4
 
 # Classic Timing Assignments
 # ==========================
-set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
-set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP "-40"
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 100
 
 # Analysis & Synthesis Assignments
 # ================================
