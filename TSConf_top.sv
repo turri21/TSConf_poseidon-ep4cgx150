@@ -231,7 +231,7 @@ pll pll
 );
 
 `ifdef CLOCK_IN_50
-//    SDRAM_CLK = ~clk_ram,
+//assign SDRAM_CLK = ~clk_ram,
 `else
 altclkctrl
 #(
